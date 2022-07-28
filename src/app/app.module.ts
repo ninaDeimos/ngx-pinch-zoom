@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { PinchZoomModule } from 'ngx-pinch-zoom';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { PinchZoomModule } from 'ngx-pinch-zoom';
 
 @NgModule({
   declarations: [
